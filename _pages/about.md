@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,17 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🎓 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I will soon be an associate professor of [Department of Computer Science and Engineering](http://www.cse.neu.edu.cn/) at [Northeastern University](https://www.neu.edu.cn/). I am also a fifth year PhD student from [Department of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn), supervised by [Prof. Bing Hu](https://person.zju.edu.cn/hubing). I received my BE degree from [Department of Computer Science and Engineering](http://www.cse.neu.edu.cn), [Northeastern University](http://www.neu.edu.cn) in 2021. From November 2024 to November 2025, I am a visiting researcher in [5G/6G Innovation Centre](https://www.surrey.ac.uk/institute-communication-systems/5g-6g-innovation-centre) of [Institute for Communication Systems](https://www.surrey.ac.uk/institute-communication-systems) at [University of Surrey](https://www.surrey.ac.uk/), supervised by [Prof. Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli) (FREng, FIEEE), [Prof. Pei Xiao](https://www.surrey.ac.uk/people/pei-xiao) and [Dr. Mahdi Boloursaz Mashhadi](https://www.surrey.ac.uk/people/mahdi-boloursaz-mashhadi), and sponsored by China Scholarship Council (CSC).
 
+<!-- 
+My research interests include Distributed Machine Learning System, LLM Distributed Training/Inference and Federated/Split Learning. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🚀 Research Interests
+- Distributed Machine Learning Systems
+- Artificial Intelligence of Things  
+- LLM Distributed Training/Inference 
 
-# 📝 Publications 
+# 📝 Publications
+\* below indicates equal contribution
+## 2026
+- Y. H. Han\*, **Y. Q. Gao\***, B. Hu, M. B. Mashhadi, Y. T. Duan, P. Xiao, and Y. F. Zhang, “[PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding](https://arxiv.org/abs/2605.13319),” *The Forty-third International Conference on Machine Learning (ICML)*, 2026. (<span style="color:red;">CCF A</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, P. Xiao, R. Tafazolli, and M. Debbah, “[BalanceMoE: An Efficient Dynamic Load Balance Framework to Accelerate Mixture-of-Expert Training](https://ieeexplore.ieee.org/abstract/document/11501770),” *IEEE Transactions on Cloud Computing*, 2026. (<span style="color:red;">CCF B, SCI Q1</span>)
 
+## 2025
+- M. H. Chang, **Y. Q. Gao**, B. Hu, P. Xiao, C. M. Wu, and L. L. Yan, “[DFQ+: Dynamic Queuing for Approximate Fairness in Programmable Shared Memory Switches](https://www.sciencedirect.com/science/article/abs/pii/S1389128625009107?via%3Dihub),” *Computer Networks*, vol. 275, p. 111945, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, Y. F. Zhang, P. Xiao, R. Tafazolli, and M. Debbah, “[FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training](https://arxiv.org/abs/2510.00207),” *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. (<span style="color:red;">CCF A</span>)
+- D. Yang, B. Hu, **Y. Q. Gao**, A. L. Jin, A. Liu, K. L. Yeung, and Y. You, “[HeaPS: Heterogeneity-aware Participant Selection for Efficient Federated Learning](https://www.sciencedirect.com/science/article/abs/pii/S0743731525001352?via%3Dihub),” *Journal of Parallel and Distributed Computing*, vol. 206, p. 105168, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[PipeDAP: An Efficient Communication Framework for Scheduling Decoupled All-Reduce Primitives in Distributed DNN Training](https://ieeexplore.ieee.org/document/11021340),” *IEEE Transactions on Emerging Topics in Computing*, vol. 13, no. 3, pp. 1170-1184, 2025. (<span style="color:red;">SCI Q1</span>)
+- **Y. Q. Gao**, Z. Zhang, B. Hu, M. B. Mashhadi, A. L. Jin and P. Xiao, “[NetPlacer+: Model Parallelism based on Load Balance in Distributed Deep Learning](https://ieeexplore.ieee.org/document/10916805),” *IEEE Transactions on Emerging Topics in Computational Intelligence*, vol. 9, no. 5, pp. 3501-3517, 2025. (<span style="color:red;">SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, M. Bennis, “[PipeSFL: A Fine-Grained Parallelization Framework for Split Federated Learning on Heterogeneous Clients](https://ieeexplore.ieee.org/document/10740645),” *IEEE Transactions on Mobile Computing*, vol. 24, no. 3, pp. 1774-1791, 2025. (<span style="color:red;">CCF A, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[A Dynamic Sliding Window based Tensor Communication Scheduling Framework for Distributed Deep Learning](https://ieeexplore.ieee.org/document/10816583)," *IEEE Transactions on Network Science and Engineering*, vol. 12, no. 2, pp. 1080-1095, 2025. (<span style="color:red;">SCI Q1</span>)
+- M. H. Chang, **Y. Q. Gao**, B. Hu, P. Xiao, S. C. Zhang, C. H. Gu, and Y. S. Liu, “[Dynamic Queuing for Approximate Fairness in Programmable Shared Memory Switches](https://ieeexplore.ieee.org/document/11038847)," *IEEE 26th International Conference on High Performance Switching and Routing (HPSR)*, 2025.
+
+## 2024
+- D. Yang, **Y. Q. Gao**, B. Hu, A. L. Jin, W. Wang, and Y. You, “[GWPF: Communication-Efficient Federated Learning with Gradient-Wise Parameter Freezing](https://www.sciencedirect.com/science/article/pii/S1389128624007187),” *Computer Networks*, vol. 255, p. 110886, 2024. (<span style="color:red;">CCF B, SCI Q1</span>)
+- M. H. Chang, H. J. Lv, **Y. Q. Gao**, B. Hu, W. Wang, and Z. Yang, “[DGS: An Efficient Delay-Guaranteed Scheduling Framework for Wireless Deterministic Networking](https://ieeexplore.ieee.org/document/10669629),” *IEEE Transactions on Network and Service Management*, vol. 21, no. 6, pp. 6582-6596, 2024. (<span style="color:red;">CCF C, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, P. Xiao, and C. M. Wu, “[US-Byte: An Efficient Communication Framework for Scheduling Unequal-sized Tensor Blocks in Distributed Deep Learning](https://ieeexplore.ieee.org/abstract/document/10314018),” *IEEE Transactions on Parallel and Distributed Systems*, vol. 35, no. 1, pp. 123-139, 2024. (<span style="color:red;">CCF A, SCI Q1</span>)
+
+## 2023
+- **Y. Q. Gao**, Z. C. Zhang, B. Hu, A. L. Jin, and C. M. Wu, “[OF-WFBP: A Near-optimal Communication Mechanism for Tensor Fusion in Distributed Deep Learning](https://www.sciencedirect.com/science/article/pii/S0167819123000595),” *Parallel Computing*, vol. 118, p.103053, 2023. (<span style="color:red;">CCF B</span>)
+
+## 2020
+- **Y. Q. Gao**, F. Luan, J. Q. Pan, X. Li, and Y. D. He, “[FPGA-Based Implementation of Stochastic Configuration Networks for Regression Prediction](https://www.mdpi.com/1424-8220/20/15/4191),” *SENSORS*, vol. 20, no. 15, pp. 4191-4204, 2020. (<span style="color:red;">SCI Q1</span>)
+- J. Q. Pan, F. Luan, **Y. Q. Gao** and Y. J. Wei, “[FPGA-Based Implementation of Stochastic Configuration Network for Robotic Grasping Recognition](https://ieeexplore.ieee.org/document/9152009),” *IEEE ACCESS*, vol. 8, pp. 139966-139973, 2020. (<span style="color:red;">SCI Q1</span>)
+
+<!--  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,18 +72,54 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🏆 Honors and Awards
+- *2025.10* China National Scholarship for PhD Students (1%)
+- *2025.10* Zhejiang University Outstanding Graduate Student
+- *2024.10* Zhejiang University Outstanding Graduate Student
+- *2024.07* Public Study Abroad approved by China Scholarship Council (CSC) 
+- *2022.10* Zhejiang University Triple A Graduate Student (3%)
+- *2022.10* Zhejiang University Outstanding Graduate Student
+- *2022.10* Zhejiang University New PhD Student Scholarship 
+- *2021.06* Outstanding Graduate of Liaoning Province (1%)
+- *2021.06* Outstanding Thesis of Northeastern University (1%)
+- *2020.11* National Second Prize of Intel Embedded System Invitation Competition
+- *2020.10* Postgraduate Recommendation to Zhejiang University 
+- *2020.10* China National Scholarship (1%) 
+- *2020.10* Northeastern University Outstanding Student (1%) 
+- *2019.10* Huawei Scholarship
+- *2019.06* Second Prize of Liaoning Province of China Electronic Design Competition
+- *2019.03* H Prize of the United States Mathematical Modelling Competition 
+- *2018.10* China National Scholarship (1%) 
+- *2018.10* Northeastern University Outstanding Student (1%)
+- *2018.06* First Prize of Liaoning Province Electronic Design Competition 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, Ph.D. Zhejiang University, Department of Information Science and Electronic Engineering  
+- *2024.11 - 2025.11*, Visiting Researcher, University of Surrey, Institute for Communication Systems, 5G/6G Innovation Centre  
+- *2017.09 - 2021.06*, B.S. Northeastern University, Department of Computer Science and Engineering
 
+# ⚖️ Academic Service
+Reviewer for:
+- IEEE Journal on Selected Areas in Communications
+- IEEE Transactions on Mobile Computing
+- IEEE/ACM Transactions on Networking
+- IEEE Transactions on Computers
+- IEEE Transactions on Communications
+- IEEE Transactions on Cloud Computing
+- IEEE Transactions on Green Communications and Networking
+- IEEE Internet of Things Journal
+- IEEE Open Journal of the Communications Society  
+
+# 🌍 Visitor Map
+[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0)
+
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
